@@ -30,7 +30,8 @@ Welcome to my repository showcasing the projects I have just completed. Each of 
      - Achieved X% precision and recall (replace with actual metrics)
 
 ## Repository Structure
-```|-- Project 1: Iris Flower Classification/
+```
+|-- Project 1: Iris Flower Classification/
 |-- Project 2: Car Price Prediction/
 |-- Project 3: Spam Email Detection/
 |-- README.md
